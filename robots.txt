@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://globaltradetechnz-alt.github.io/machglass-windscreens/sitemap.xml

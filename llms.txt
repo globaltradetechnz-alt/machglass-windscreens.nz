@@ -1,0 +1,42 @@
+# Machglass Windscreens
+
+> Auckland windscreen and auto glass repair and replacement specialist. Serving Auckland since 1989.
+
+Machglass replaces and repairs windscreens and auto glass for cars, trucks, and commercial vehicles. Mobile service available across the Auckland region. Works with all major NZ insurance companies.
+
+## Services
+
+- Car windscreen replacement and repair
+- Truck and commercial vehicle glass
+- Windscreen chip and crack repair  
+- Insurance claim processing (AA, State, AMI, Tower, Vero, and all other NZ insurers)
+- Mobile service throughout Auckland
+- Export windscreens
+
+## Areas Served
+
+Auckland CBD, North Shore, East Auckland, South Auckland, West Auckland, Manukau, Albany, Silverdale, Hibiscus Coast, Rodney, Franklin
+
+## Car Makes Serviced
+
+Alfa Romeo, Audi, BMW, Chrysler, Citroen, Daihatsu, Dodge, Ferrari, Fiat, Ford, Holden, Honda, Hyundai, Isuzu, Jaguar, Jeep, Kia, Lamborghini, Land Rover, Lexus, Mazda, Mercedes, Mitsubishi, Nissan, Peugeot, Porsche, Renault, Rolls Royce, Subaru, Suzuki, Toyota, Volkswagen, Volvo, and more.
+
+## Truck Makes Serviced
+
+Bedford, DAF, ERF, Freightliner, Hino, International, Isuzu, Kenworth, Mack, MAN, Mercedes, Mitsubishi, Nissan, Scania, Toyota, Volvo, Western Star, and more.
+
+## Contact
+
+- Email form: https://globaltradetechnz-alt.github.io/machglass-windscreens/contact/
+- Insurance claims: https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/
+
+## Key Pages
+
+- [Homepage](https://globaltradetechnz-alt.github.io/machglass-windscreens/)
+- [Car Glass](https://globaltradetechnz-alt.github.io/machglass-windscreens/car_glass/)
+- [Truck Glass](https://globaltradetechnz-alt.github.io/machglass-windscreens/truck_glass/)
+- [Insurance Work](https://globaltradetechnz-alt.github.io/machglass-windscreens/insurance_work/)
+- [Mobile Service](https://globaltradetechnz-alt.github.io/machglass-windscreens/mobile_service/)
+- [Contact](https://globaltradetechnz-alt.github.io/machglass-windscreens/contact/)
+- [Services](https://globaltradetechnz-alt.github.io/machglass-windscreens/services/)
+- [Windscreen Claims](https://globaltradetechnz-alt.github.io/machglass-windscreens/windscreenclaim/)
